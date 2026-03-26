@@ -8,9 +8,11 @@ Développeur curieux, je cherche à intégrer des projets concrets qui me permet
 
 🤝 Si vous cherchez un profil motivé, rigoureux et prêt à s’investir dans des projets concrets, n’hésitez pas à me contacter.
 
-📩 Me contacter :
-📧 ramandimbsonespoir@gmail.com
-📱 WhatsApp : +261 38 90 015 14 / +261 33 43 015 14
+## 📩 Contact
+
+- **Email** : [ramandimbsonespoir@gmail.com](mailto:ramandimbsonespoir@gmail.com) ![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)
+- **WhatsApp** : [+261 38 90 015 14](https://wa.me/261389001514) ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
+- **WhatsApp** : [+261 33 43 015 14](https://wa.me/261334301514) ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
 ## 🌐 Mon Portfolio
 
 [![Portfolio - Ramandimbson Espoir](https://ramandimbson-eta.vercel.app/assets/images/capture/Capture.PNG)](https://ramandimbson-eta.vercel.app/fr)
